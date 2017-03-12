@@ -1,2 +1,4 @@
 # hello-world
-Tutorial
+Hello, World!
+Hola!
+Guten Tag!
